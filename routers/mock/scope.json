@@ -1,0 +1,19 @@
+{
+  "name": "scope",
+  "type": "ScopeModel",
+  "clock-domains": [
+    "meterDomain",
+    "powerDomain"
+  ],
+  "soft-triggers": [
+    "Bin-Synced-Readbacks",
+    "Power Scope Trigger",
+    "SysMon Trigger",
+    "Timed Trigger"
+  ],
+  "streams": [
+    "Power Control",
+    "Frequency",
+    "Meter"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "renders": [
+    {
+      "serial": 1,
+      "name": "Frequency Render Job",
+      "job-status": "Completed",
+      "progress": {
+        "completed": 5384512,
+        "total": 8384512
+      }
+    },
+    {
+      "serial": 2,
+      "name": "Frequency Render Job",
+      "job-status": "Completed",
+      "progress": {
+        "completed": 1384512,
+        "total": 8384512
+      }
+    }
+  ]
+}

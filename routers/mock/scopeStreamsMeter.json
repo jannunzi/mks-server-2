@@ -1,0 +1,21 @@
+{
+  "name": "Meter",
+  "type": "Stream",
+  "clock-domain": "powerDomain",
+  "base-rate": 2345,
+  "channels": [
+    "Actual Setpoint",
+    "Forward Power",
+    "Gamma Real",
+    "Gamma Imaginary",
+    "Drive Setpoint",
+    "Drive PRBS State",
+    "Rail Setpoint",
+    "Rail PRBS State",
+    "Frequency",
+    "Gamma Blk Active",
+    "Pulse State",
+    "JTE Power Dissipation",
+    "JTE Current"
+  ]
+}

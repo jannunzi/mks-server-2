@@ -1,0 +1,36 @@
+{
+  "captures": [
+    {
+      "capture-name": "jose",
+      "status": "Completed",
+      "capture-state": "Completed",
+      "render-ids": [
+        "2"
+      ]
+    },
+    {
+      "capture-name": "alex",
+      "status": "Completed",
+      "capture-state": "Completed",
+      "render-ids": [
+        "2"
+      ]
+    },
+    {
+      "capture-name": "rafael",
+      "status": "Completed",
+      "capture-state": "Completed",
+      "render-ids": [
+        "2"
+      ]
+    },
+    {
+      "capture-name": "katerina",
+      "status": "Completed",
+      "capture-state": "Completed",
+      "render-ids": [
+        "2"
+      ]
+    }
+  ]
+}

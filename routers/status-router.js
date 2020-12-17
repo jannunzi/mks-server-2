@@ -5,7 +5,7 @@ const MNT = `${PREFIX}/mnt`;
 const TMP = `${PREFIX}/tmp`;
 const VERSIONS = `${PREFIX}/versions`;
 const UPTIME = `${PREFIX}/proc/uptime`;
-const LOG = '/var/ftp/log';
+const LOG = `${PREFIX}/var/ftp/log`;
 
 const express = require('express');
 const bodyParser = require('body-parser')

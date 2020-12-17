@@ -1,0 +1,10 @@
+{
+  "serial": 2,
+  "name": "Frequency Render Job",
+  "job-status": "Completed",
+  "progress": {
+    "completed": 8384512,
+    "total": 8384512
+  },
+  "render-file": "Frequency/Frequency-20200925-183446.sbf"
+}

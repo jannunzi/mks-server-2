@@ -1,0 +1,52 @@
+{
+  "captures": [
+    {
+      "capture-name": "jose",
+      "status": "Completed",
+      "capture-state": "Completed",
+      "render-ids": [
+        "2"
+      ]
+    },
+    {
+      "capture-name": "test",
+      "status": "Completed",
+      "capture-state": "Completed",
+      "render-ids": [
+        "3"
+      ]
+    },
+    {
+      "capture-name": "test27",
+      "status": "Completed",
+      "capture-state": "Completed",
+      "render-ids": [
+        "4"
+      ]
+    },
+    {
+      "capture-name": "test31",
+      "status": "Completed",
+      "capture-state": "Completed",
+      "render-ids": [
+        "6"
+      ]
+    },
+    {
+      "capture-name": "test35",
+      "status": "Completed",
+      "capture-state": "Completed",
+      "render-ids": [
+        "5"
+      ]
+    },
+    {
+      "capture-name": "test42",
+      "status": "Sleeping",
+      "capture-state": "Rendering",
+      "render-ids": [
+        "7"
+      ]
+    }
+  ]
+}

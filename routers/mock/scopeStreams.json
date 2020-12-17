@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Power Control",
+    "type": "Stream"
+  },
+  {
+    "name": "Frequency",
+    "type": "Stream"
+  },
+  {
+    "name": "Meter",
+    "type": "Stream"
+  }
+]
